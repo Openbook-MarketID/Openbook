@@ -1,32 +1,56 @@
-<h1>Create Cheap Openbook Market ID 0.2 SOL</h1>
+<h1><strong>Create Openbook Market ID Only 0.2 SOL - How to Get Raydium Market ID?</strong></h1>
 
-<p id="8d58" class="pw-post-body-paragraph uj uk qi ul b um un uo up uq ur us ut uu uv uw ux uy uz va vb vc vd ve vf vg ey bk" data-selectable-paragraph="">The burgeoning world of Solana DeFi offers a plethora of opportunities for innovative token projects. However, listing your token on a leading platform like Raydium requires an essential step: creating an <strong class="ul kv">Openbook Market ID</strong>. Traditionally, this process could incur significant costs due to storage and transaction fees. Here’s where <strong class="ul kv">Openbook v2</strong> emerges as a game-changer, allowing you to create a <strong class="ul kv">cheap Openbook Market ID</strong> and streamline your token launch.</p>
+<p><strong>What is Raydium Market ID?</strong><br>
+The most preferred DeFi platform on the Solana network is Raydium.io, and if you want to get your token project listed and traded there, you need to create an ID called "Openbook Market ID". OpenBook is a decentralized and open-source implementation of the Serum V3 protocol available on Solana.<br>
+You need to have an Openbook Market ID to be listed on DeFi platforms like Raydium.io.</p>
 
-<h1 id="513e" class="vh vi qi bf vj kw vk kx kz la vl lb ld hl vm hm hp lg vn lh lk ll vo lm lp vp bk" data-selectable-paragraph="">Demystifying the Openbook Market ID</h1>
-<p id="25e9" class="pw-post-body-paragraph uj uk qi ul b um vq uo up uq vr us ut uu vs uw ux uy vt va vb vc vu ve vf vg ey bk" data-selectable-paragraph="">Imagine an Openbook Market ID as a bridge between your Solana token and Raydium’s decentralized exchange (DEX). It establishes the trading parameters for your token on Raydium, dictating how orders are matched and prices are discovered. By creating an Openbook Market ID, you essentially unlock seamless integration with Raydium, enabling users to effortlessly trade your token.</p>
+<h1>Create a Cheap Openbook Market ID</h1>
 
-<h1 id="c193" class="vh vi qi bf vj kw vk kx kz la vl lb ld hl vm hm hp lg vn lh lk ll vo lm lp vp bk" data-selectable-paragraph="">Why Openbook v2 is a DeFi Darling</h1>
-<p id="89bd" class="pw-post-body-paragraph uj uk qi ul b um vq uo up uq vr us ut uu vs uw ux uy vt va vb vc vu ve vf vg ey bk" data-selectable-paragraph="">Openbook v2’s brilliance lies in its ability to strike a perfect balance. It significantly reduces costs without compromising functionality. Here’s what makes it stand out:</p>
-<p id="e076" class="pw-post-body-paragraph uj uk qi ul b um un uo up uq ur us ut uu uv uw ux uy uz va vb vc vd ve vf vg ey bk" data-selectable-paragraph=""><strong class="ul kv">Cost Efficiency:</strong> Save valuable SOL compared to traditional methods, freeing up resources for other crucial aspects of your project.</p>
-<p id="bd30" class="pw-post-body-paragraph uj uk qi ul b um un uo up uq ur us ut uu uv uw ux uy uz va vb vc vd ve vf vg ey bk" data-selectable-paragraph=""><strong class="ul kv">Seamless Raydium Integration:</strong> Ensure flawless compatibility with Raydium, guaranteeing a smooth experience for your token’s trading activity.</p>
-<p id="8b24" class="pw-post-body-paragraph uj uk qi ul b um un uo up uq ur us ut uu uv uw ux uy uz va vb vc vd ve vf vg ey bk" data-selectable-paragraph=""><strong class="ul kv">Optimal Performance:</strong> Maintain essential “length” values within the Openbook Market ID. These values are crucial for efficient order matching and preventing errors on Raydium. Some services might tempt you with even lower fees by manipulating “length” values. However, this is strongly discouraged as it can lead to malfunctioning orders and ultimately harm your project’s reputation.</p>
+<p>The price you have to pay to get a Raydium.io Market ID is around "3 SOL" nowadays. However, with the method I'm going to tell you, you can get a market id that is 100% compatible with Raydium.io for only 0.2 SOL.<br>
+Through Openbooklab.xyz, one of the first sites to support Openbookv2, you can create a market id that is fully compatible with Serum V3 liquidity. The "Length" values are very high and the cost is only around 0.2 SOL. If you are curious how this new system works, you can see the open source code on the Github link at the end of this article. You can access the Openbooklab.xyz website from the link below.</p>
 
-<h1 id="c9ec" class="vh vi qi bf vj kw vk kx kz la vl lb ld hl vm hm hp lg vn lh lk ll vo lm lp vp bk" data-selectable-paragraph="">Creating Your Cheap Openbook Market ID</h1>
-<p id="cb27" class="pw-post-body-paragraph uj uk qi ul b um vq uo up uq vr us ut uu vs uw ux uy vt va vb vc vu ve vf vg ey bk" data-selectable-paragraph=""><mark class="afv afw ao">Several platforms leverage Openbook v2 to offer a simplified process for creating a cheap Openbook Market ID. While specific instructions might vary slightly, here’s a general outline:</mark></p>
-<p id="37ff" class="pw-post-body-paragraph uj uk qi ul b um un uo up uq ur us ut uu uv uw ux uy uz va vb vc vd ve vf vg ey bk" data-selectable-paragraph=""><strong class="ul kv">Platform Selection:</strong> Go to the <a class="af vv" href="https://www.openbooklab.xyz/" target="_blank" rel="noopener ugc nofollow"><strong class="ul kv">https://www.openbooklab.xyz</strong></a> website</p>
-<p id="a284" class="pw-post-body-paragraph uj uk qi ul b um un uo up uq ur us ut uu uv uw ux uy uz va vb vc vd ve vf vg ey bk" data-selectable-paragraph=""><strong class="ul kv">Wallet Connection:</strong> Connect your <strong class="ul kv">Phantom or Solflare</strong> wallet to the platform.</p>
-<p id="e2af" class="pw-post-body-paragraph uj uk qi ul b um un uo up uq ur us ut uu uv uw ux uy uz va vb vc vd ve vf vg ey bk" data-selectable-paragraph=""><mark class="afv afw ao"><strong class="ul kv">Token Details:</strong></mark><mark class="afv afw ao"> Provide the contract address of your token, the desired quote currency (USDC, USDT, or SOL are common options), minimum order size, and price tick size.</mark></p>
+<p><a href="https://www.openbooklab.xyz/" target="_blank" rel="noopener">https://www.openbooklab.xyz/</a></p>
 
-<blockquote class="vw vx vy">
-<p id="3320" class="uj uk vz ul b um un uo up uq ur us ut uu uv uw ux uy uz va vb vc vd ve vf vg ey bk" data-selectable-paragraph="">SOL: So11111111111111111111111111111111111111112</p>
-<p id="c536" class="uj uk vz ul b um un uo up uq ur us ut uu uv uw ux uy uz va vb vc vd ve vf vg ey bk" data-selectable-paragraph="">USDC: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v</p>
-<p id="35db" class="uj uk vz ul b um un uo up uq ur us ut uu uv uw ux uy uz va vb vc vd ve vf vg ey bk" data-selectable-paragraph="">USDT: Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB</p>
-</blockquote>
-<figure class="wd we wf wg wh wi wa wb paragraph-image">
-<div class="wj wk dq wl bh wm" tabindex="0" role="button">
-<div class="wa wb wc"><picture><source srcset="https://miro.medium.com/v2/resize:fit:640/format:webp/1*ZnZXVqAe1tycSP9IYrlxmg.png 640w, https://miro.medium.com/v2/resize:fit:720/format:webp/1*ZnZXVqAe1tycSP9IYrlxmg.png 720w, https://miro.medium.com/v2/resize:fit:750/format:webp/1*ZnZXVqAe1tycSP9IYrlxmg.png 750w, https://miro.medium.com/v2/resize:fit:786/format:webp/1*ZnZXVqAe1tycSP9IYrlxmg.png 786w, https://miro.medium.com/v2/resize:fit:828/format:webp/1*ZnZXVqAe1tycSP9IYrlxmg.png 828w, https://miro.medium.com/v2/resize:fit:1100/format:webp/1*ZnZXVqAe1tycSP9IYrlxmg.png 1100w, https://miro.medium.com/v2/resize:fit:1400/format:webp/1*ZnZXVqAe1tycSP9IYrlxmg.png 1400w" type="image/webp" sizes="(min-resolution: 4dppx) and (max-width: 700px) 50vw, (-webkit-min-device-pixel-ratio: 4) and (max-width: 700px) 50vw, (min-resolution: 3dppx) and (max-width: 700px) 67vw, (-webkit-min-device-pixel-ratio: 3) and (max-width: 700px) 65vw, (min-resolution: 2.5dppx) and (max-width: 700px) 80vw, (-webkit-min-device-pixel-ratio: 2.5) and (max-width: 700px) 80vw, (min-resolution: 2dppx) and (max-width: 700px) 100vw, (-webkit-min-device-pixel-ratio: 2) and (max-width: 700px) 100vw, 700px" /><source srcset="https://miro.medium.com/v2/resize:fit:640/1*ZnZXVqAe1tycSP9IYrlxmg.png 640w, https://miro.medium.com/v2/resize:fit:720/1*ZnZXVqAe1tycSP9IYrlxmg.png 720w, https://miro.medium.com/v2/resize:fit:750/1*ZnZXVqAe1tycSP9IYrlxmg.png 750w, https://miro.medium.com/v2/resize:fit:786/1*ZnZXVqAe1tycSP9IYrlxmg.png 786w, https://miro.medium.com/v2/resize:fit:828/1*ZnZXVqAe1tycSP9IYrlxmg.png 828w, https://miro.medium.com/v2/resize:fit:1100/1*ZnZXVqAe1tycSP9IYrlxmg.png 1100w, https://miro.medium.com/v2/resize:fit:1400/1*ZnZXVqAe1tycSP9IYrlxmg.png 1400w" sizes="(min-resolution: 4dppx) and (max-width: 700px) 50vw, (-webkit-min-device-pixel-ratio: 4) and (max-width: 700px) 50vw, (min-resolution: 3dppx) and (max-width: 700px) 67vw, (-webkit-min-device-pixel-ratio: 3) and (max-width: 700px) 65vw, (min-resolution: 2.5dppx) and (max-width: 700px) 80vw, (-webkit-min-device-pixel-ratio: 2.5) and (max-width: 700px) 80vw, (min-resolution: 2dppx) and (max-width: 700px) 100vw, (-webkit-min-device-pixel-ratio: 2) and (max-width: 700px) 100vw, 700px" data-testid="og" /><img class="bh tu wn c" role="presentation" src="https://miro.medium.com/v2/resize:fit:700/1*ZnZXVqAe1tycSP9IYrlxmg.png" alt="" width="700" height="434" /></picture></div>
-</div></figure>
-<p id="3a0c" class="pw-post-body-paragraph uj uk qi ul b um un uo up uq ur us ut uu uv uw ux uy uz va vb vc vd ve vf vg ey bk" data-selectable-paragraph=""><strong class="ul kv">Review and Create:</strong> Double-check the details and ensure you have at least 0.21 SOL in your wallet to cover the fees. Click “<strong class="ul kv">Create</strong>” to initiate the process.</p>
-<p id="760e" class="pw-post-body-paragraph uj uk qi ul b um un uo up uq ur us ut uu uv uw ux uy uz va vb vc vd ve vf vg ey bk" data-selectable-paragraph="">
+<p><em>Note: Do not try to reduce the fee by changing the "Length" values in Advanced Options on sites like Dexlab! This is the wrong approach and will lead to problems in the Serum V3 liquidity center. One of these problems is that users will receive frequent errors when trading. This will negatively affect the credibility of your project.</em><br>
+Before you start your configuration, you can understand how easy the process is from the video below. If your project needs a special pricing requirement, you can configure your settings as you wish according to the detailed examples in the description below.</p>
 
+<h1>How to Get Openbook Market ID? Detailed Explanation;</h1>
 
+<p>First, go to <strong><a href="https://www.openbooklab.xyz/" target="_blank" rel="noopener">https://www.openbooklab.xyz</a></strong> and connect your <strong>Phantom wallet</strong> (Openbook v2 is only supported by Phantom and you need to use a non-mobile device).</p>
+
+<p><strong>Base Mint:</strong> In this field, you need to write the token contract address you created.<br>
+<strong>Quote Mint:</strong> You can leave this field as it is, or you can use USDC or USDT if you prefer.<br>
+<em>USDC: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v<br>
+USDT: Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB</em></p>
+
+<p><strong>Min. Order Size:</strong> By default you can enter the value "1", but if you want to make a custom configuration, you can set it according to the specific needs of your project by reviewing the examples from the table below.</p>
+
+<p><strong>Price Tick:</strong> You can enter the default value of "4", again you can customize your project by examining the examples below.<br>
+You can customize your "Tickers" settings as you wish by using the examples below.<br>
+<strong>Min. Order Size:</strong> It is the minimum order quantity in the order book.<br>
+Example: Set to 4 -> You can place Min: 0.0001 orders.<br>
+Example: Set to 0 -> Min: 1 order.<br>
+Example: Set to 1 -> You can order Min: 0.1.<br>
+<strong>Price Step:</strong> The number of decimal places on the price screen.<br>
+Example: Set to 5 -> Token price is displayed with 5 decimal places, like 11.12345<br>
+Example: Set to 4 -> Token price is displayed with 4 decimal places, like 11.1234</p>
+
+<p>Check all your settings and if everything is ok, verify that you have 0.2 SOL in your account and click "Create" to finish the process. The Openbook Market ID creation process will take approximately 15-20 seconds depending on the <strong>Solana network</strong> density.</p>
+
+<section class="useful-links">
+<h2>Useful Resources</h2>
+<ul>
+ 	<li><a href="https://solana.com/" target="_blank" rel="noopener">
+Solana Official Website
+</a> - Learn more about the Solana blockchain, its ecosystem, and how to get started.</li>
+ 	<li><a href="https://docs.solana.com/" target="_blank" rel="noopener">
+Solana Documentation
+</a> - Comprehensive documentation on building and interacting with the Solana network.</li>
+ 	<li><a href="https://raydium.io/" target="_blank" rel="noopener">
+Raydium Official Website
+</a> - Explore Raydium, a decentralized exchange (DEX) and automated market maker (AMM) on the Solana blockchain.</li>
+ 	<li><a href="https://raydium.gitbook.io/raydium/" target="_blank" rel="noopener">
+Raydium Documentation
+</a> - Dive into the technical details and tutorials for using Raydium on the Solana network.</li>
+</ul>
+</section>
